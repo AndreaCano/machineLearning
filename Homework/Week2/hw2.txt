@@ -1,0 +1,31 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+#
+# Please put your solution to a problem after the line that gives
+# the number of that problem.  For multiple choice questions,
+# just use the letter or number associated with the choice.
+#
+# Do not modify this file *except* to add lines as needed after each problem.
+# Blank lines are ignored.
+#
+# The homework will be graded by a script, so you will not get points
+# if you don't follow these formatting instructions.
+#
+
+# 1 Reading
+
+#@ 1a -- enter 'Y' or 'N'  (don't use quotes in any answer)
+Y
+#@ 1b -- enter a number
+5.220
+#@ 1c -- enter a number
+27.250
+#@ 1d -- enter a number
+.962
+#@ 1e -- enter 'a', 'b', or 'c'
+a
+#@ 1f -- enter 'Y' or 'N'
+Y
+#@ 1g -- enter 'T' or 'F'
+T

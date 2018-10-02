@@ -1,0 +1,42 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+#
+# Please put your solution to a problem after the line that gives
+# the number of that problem.  For multiple choice questions,
+# just use the letter or number associated with the choice.
+#
+# Do not modify this file *except* to add lines as needed after each problem.
+# Blank lines are ignored.
+#
+# The homework will be graded by a script, so you will not get points
+# if you don't follow these formatting instructions.
+#
+
+# 1 Reading
+
+#@ 1a -- enter a number
+0
+#@ 1b -- enter a number
+-4
+#@ 1c -- enter a vector (see assignment for formatting info)
+[2/3,1/3]
+#@ 1d -- enter a matrix
+[[1,0,0],[0,1,0],[0,0,1]]
+#@ 1e -- enter a matrix
+[[9],[7]]
+#@ 1f -- enter 'T' or 'F'  (don't use quotes)
+T
+#@ 1g -- enter an expression of the form 'expr x expr', where expr is an expression involving m and/or n
+n x n
+#@ 1h -- enter a matrix
+[[1,2,3],[2,5,2],[6,-3,1]]
+#@ 1i -- enter a matrix
+[[1,0,0],[-4,1,0],[0,0,1]]
+#@ 1j -- enter a vector
+[[13/7,9/7],[18/7,6/7]]
+
+
+
+
+
